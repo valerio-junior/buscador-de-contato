@@ -54,7 +54,7 @@ const contact = [
     { name: "Priscila", number: "43 99680-3371" },
     { name: "Alexandre", number: "43 99300-4952" },
     { name: "Simone", number: "43 99272-6489" },
-    { name: "Daniela", number: "43 99785-2304" }
+    { name: "Daniela", number: "43 99785-2304" },
     { name: "Manoela", number: "43 99785-5555" }
 ]
 
